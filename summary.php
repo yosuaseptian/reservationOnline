@@ -32,8 +32,8 @@ endif;
                     <h3 style="text-align:center">Aliansi Pesulap Catering Services</h3>
 <h4 style="text-align:center">Talisay City</h4>
 <h4 style="text-align:center">Tel. No. : 435-00787</h4>
-<h4 style="text-align:center">Email : emoblazz@gmail.com</h4>
-<h4 style="text-align:center">Facebook : facebook.com/progaddictbylee</h4>
+<h4 style="text-align:center">Email : ysmjojooo@gmail.com</h4>
+<h4 style="text-align:center">Facebook : facebook.com/pesulapaliansiPBO</h4>
 <hr>
 
 <table style="width:100%">
@@ -59,6 +59,7 @@ include('includes/dbcon.php');
         $time=$row['r_time'];
         $type=$row['r_type'];
         $cid=$row['combo_id'];
+        $email=$row['r_email']
 
 ?>                      
                       <tr>
@@ -87,8 +88,8 @@ include('includes/dbcon.php');
 
                       </tr>   
                       <tr>  
-                        <td></td>
-                        <td></td>
+                        <td>Email : </td>
+                        <td><?php echo $email;?></td>
                         <td>Occasion: </td>
                         <td><?php echo $ocassion;?></td>
                         
