@@ -76,33 +76,54 @@
 				<div class = "col-lg-12 col-md-12 col-sm-12 ">
 					<div class = "title-header">
 						<h2 class = "center">
-							Peoples of Chimney
+							Peoples of Aliansi PBO Catering
 						</h2>
 					</div>					
 				</div>
 				<br/>
 				<br/>
 				<br/>
-				<div class = "col-lg-3 col-md-3 col-sm-3">
+				<!-- <div class = "col-lg-3 col-md-3 col-sm-3">
 					
-				</div>
-				<div class = "col-lg-3 col-md-3 col-sm-3">
+				</div> -->
+				<div class = "col-lg-4 col-md-2 col-sm-2">
 					<div class = "center user-icon">
 						<img src = "images/iconz.png"/>
 					</div>
-					<h4 class = "center">Lee Pipez</h4>
+					<h4 class = "center">Yosua Septian</h4>
 					<h5 class = "center">President/Owner</h5> 										
 				</div>
-				<div class = "col-lg-3 col-md-3 col-sm-3">
+				<div class = "col-lg-2 col-md-2 col-sm-2">
 					<div class = "center user-icon">
 						<img src = "images/iconz.png"/>
 					</div>
-					<h4 class = "center">Prog Addict</h4>
+					<h4 class = "center">Mahmud Syaiful Aminudin</h4>
 					<h5 class = "center">Manager</h5>										
 				</div>
-				<div class = "col-lg-3 col-md-3 col-sm-3">
-										
+				<div class = "col-lg-2 col-md-2 col-sm-2">
+					<div class = "center user-icon">
+						<img src = "images/iconz.png"/>
+					</div>
+					<h4 class = "center">Getsfy Mahardika</h4>
+					<h5 class = "center">Team Marketing</h5>										
 				</div>
+				<div class = "col-lg-2 col-md-2 col-sm-2">
+					<div class = "center user-icon">
+						<img src = "images/iconz.png"/>
+					</div>
+					<h4 class = "center">Indra Lukman</h4>
+					<h5 class = "center">Team Marketing</h5>										
+				</div>
+				<div class = "col-lg-2 col-md-2 col-sm-2">
+					<div class = "center user-icon">
+						<img src = "images/iconz.png"/>
+					</div>
+					<h4 class = "center">Muhammad Irdam Ardiansyah</h4>
+					<h5 class = "center">Chef</h5>										
+				</div>
+				<!-- <div class = "col-lg-3 col-md-3 col-sm-3">
+										
+				</div> -->
 			</div>
 		</div>
 <?php include 'footer.php';?> 	
